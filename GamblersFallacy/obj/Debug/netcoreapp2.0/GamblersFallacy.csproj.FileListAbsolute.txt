@@ -1,0 +1,11 @@
+C:\Users\Lautaro\Documents\Visual Studio 2017\Projects\GamblersFallacy\GamblersFallacy\bin\Debug\netcoreapp2.0\GamblersFallacy.deps.json
+C:\Users\Lautaro\Documents\Visual Studio 2017\Projects\GamblersFallacy\GamblersFallacy\bin\Debug\netcoreapp2.0\GamblersFallacy.runtimeconfig.json
+C:\Users\Lautaro\Documents\Visual Studio 2017\Projects\GamblersFallacy\GamblersFallacy\bin\Debug\netcoreapp2.0\GamblersFallacy.runtimeconfig.dev.json
+C:\Users\Lautaro\Documents\Visual Studio 2017\Projects\GamblersFallacy\GamblersFallacy\bin\Debug\netcoreapp2.0\GamblersFallacy.dll
+C:\Users\Lautaro\Documents\Visual Studio 2017\Projects\GamblersFallacy\GamblersFallacy\bin\Debug\netcoreapp2.0\GamblersFallacy.pdb
+C:\Users\Lautaro\Documents\Visual Studio 2017\Projects\GamblersFallacy\GamblersFallacy\obj\Debug\netcoreapp2.0\GamblersFallacy.csprojResolveAssemblyReference.cache
+C:\Users\Lautaro\Documents\Visual Studio 2017\Projects\GamblersFallacy\GamblersFallacy\obj\Debug\netcoreapp2.0\GamblersFallacy.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Documents\Visual Studio 2017\Projects\GamblersFallacy\GamblersFallacy\obj\Debug\netcoreapp2.0\GamblersFallacy.AssemblyInfoInputs.cache
+C:\Users\Lautaro\Documents\Visual Studio 2017\Projects\GamblersFallacy\GamblersFallacy\obj\Debug\netcoreapp2.0\GamblersFallacy.AssemblyInfo.cs
+C:\Users\Lautaro\Documents\Visual Studio 2017\Projects\GamblersFallacy\GamblersFallacy\obj\Debug\netcoreapp2.0\GamblersFallacy.dll
+C:\Users\Lautaro\Documents\Visual Studio 2017\Projects\GamblersFallacy\GamblersFallacy\obj\Debug\netcoreapp2.0\GamblersFallacy.pdb
